@@ -5,7 +5,7 @@ import logging
 import os
 import pymysql.cursors
 app = Flask(__name__)
-RDS_HOST = 'aaa.cggrslrvloyc.ap-northeast-1.rds.amazonaws.com'
+RDS_HOST = 'aaa.bbb.ap-northeast-1.rds.amazonaws.com'
 RDS_PORT = 3306
 NAME = 'xxx'
 PASSWORD = 'aaa'
